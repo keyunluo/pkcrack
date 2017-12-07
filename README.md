@@ -3,12 +3,12 @@
 ## Table of Contents
 ---
 
-- [Introduction](#Introduction)
-- [Build](#Build)
-- [Usage](#Usage)
-- [More](#More)
-- [Demo](#Demo)
-- [Details](#Details)
+- [Introduction](#introduction)
+- [Build](#build)
+- [Usage](#usage)
+- [More](#more)
+- [Demo](#demo)
+- [Details](#details)
 ---
 
 ## Introduction
@@ -17,7 +17,7 @@ This package implements an algorithm that was developed by Eli Biham and Paul Ko
 
 The attack is a `known plaintext attack`, which means you have to know part of the encrypted data in order to break the cipher.
 
-The `original` file is [here](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack/pkcrack-1.2.2.tar.gz), and the Offical Website is https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html.
+The `original` file is [here](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack/pkcrack-1.2.2.tar.gz), and the official website is https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html.
 
 This repositoriy is reconstructed with the modern build tool  `CMAKE`.
 
