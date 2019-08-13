@@ -80,7 +80,8 @@ static char RCSID[]="$Id: main.c,v 1.15 2002/11/12 16:58:02 lucifer Exp $";
 
 #include <sys/stat.h>
 #include <fcntl.h>
-#include <malloc.h>
+//#include <malloc.h>
+#include <stdlib.h>
 #include <stdlib.h>
 #include <string.h>
 

@@ -84,7 +84,8 @@ static char RCSID[]="$Id: zipdecrypt.c,v 1.16 2003/01/05 14:40:37 lucifer Exp $"
 
 #include <sys/stat.h>
 #include <fcntl.h>
-#include <malloc.h>
+//#include <malloc.h>
+#include <stdlib.h>
 #include <string.h>
 #include "pkctypes.h"
 #include "crc.h"

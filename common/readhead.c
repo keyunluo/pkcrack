@@ -55,7 +55,11 @@
 /* Functions to read signature and headers                                    */
 /******************************************************************************/
 #include <stdio.h>
+#if defined(__MACH__)
+#include <stdlib.h>
+#else 
 #include <malloc.h>
+#endif
 #include <string.h>
 
 #ifndef _WIN32
