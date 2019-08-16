@@ -68,7 +68,8 @@
 #endif
 
 #include <fcntl.h>
-#include <malloc.h>
+//#include <malloc.h>
+#include <stdlib.h>
 #include <string.h>
 
 #include "headers.h"
