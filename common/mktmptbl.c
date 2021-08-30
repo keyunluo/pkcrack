@@ -43,6 +43,7 @@
 static char RCSID[]="$Id: mktmptbl.c,v 1.9 2002/11/02 15:12:06 lucifer Exp $";
 
 #include <stdio.h>
+#include <string.h>
 #include "mktmptbl.h"
 
 ushort	tempTable[256][64];
