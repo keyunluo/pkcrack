@@ -12,6 +12,7 @@
 
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
 #include "pkcrack.h"
 #include "keystuff.h"
 #include "crc.h"
